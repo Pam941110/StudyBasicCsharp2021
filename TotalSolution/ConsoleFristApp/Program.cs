@@ -8,6 +8,7 @@ namespace ConsoleFristApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Second");
+            Console.WriteLine("Third");
         }
     }
 }
