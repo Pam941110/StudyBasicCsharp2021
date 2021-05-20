@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleFristApp
+namespace InheritTest
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
